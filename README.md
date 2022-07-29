@@ -18,7 +18,7 @@ Hiermit möchte ich ausdrücklich darauf hinweisen, dass ich das eigenständige 
 ## Sonstiges:
 
 Link zum Moodle Raum:
-[Hier der Link zum FProg Moodlekurs](https://moodle.hs-coburg.de/course/view.php?id=8999)
+[Hier der Link zum Prog1 Moodlekurs](https://moodle.hs-coburg.de/course/view.php?id=6988)
 
 
 
